@@ -1,7 +1,8 @@
 # Regioni, province e comuni italiani
 In questa repository sono contenute le liste di regioni, province e comuni con indicazione se quest'ultimi sono capoluoghi d'Italia.
 ### Contenuto:
-Inizialmente si tratta di un solo file, un dump di MySQL realizzato con phpMyAdmin. In futuro potrebbe aggiungersi altro.
+- Un dump di MySQL realizzato con phpMyAdmin.
+- Tre file JSON, uno per le regioni, uno per le province e uno per i comuni.
 ### Fonte:
 Dati **ISTAT** aggiornati al **30 Giugno 2021**.
 ### Questa repository verrà aggiornata di pari passo con i nuovi dati ISTAT?
